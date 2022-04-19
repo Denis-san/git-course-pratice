@@ -2,3 +2,5 @@
 Praticando alguns comandos e recursos do git + github.
 
 # Editado na branch v-01
+
+## Adicionando texto, (branch master)
